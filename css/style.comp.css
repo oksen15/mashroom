@@ -777,13 +777,13 @@ ORDER: Base + typography > general layout + grid > page layout > components
       top: 4rem;
       left: 4rem; }
     .header__logo {
-        width: 10px;
-        height: 10px; }
+        
+        height: 90px; }
     .header__text-box {
       position: absolute;
       top: 40%;
       left: 50%;
-      transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%)
       text-align: center; }
   
   .navigation__checkbox {
