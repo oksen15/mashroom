@@ -1759,7 +1759,7 @@ body {
 }
 
 .footer__logo {
-  width: 15rem;
+  width: 60px;
   height: auto;
 }
 
@@ -2238,7 +2238,7 @@ body {
     from(#7ed56f),
     to(#28b485)
   );
-  background-image: linear-gradient(to right bottom, #7ed56f, #28b485);
+  background-image: linear-gradient(to right bottom, #ffffff, #b80000);
 }
 
 @media only screen and (max-width: 56.25em) {
