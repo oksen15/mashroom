@@ -1906,8 +1906,8 @@ body {
     url(../img/hero-small.jpg);
   background-image: linear-gradient(
       to right bottom,
-      rgba(126, 213, 111, 0.8),
-      rgba(40, 180, 133, 0.8)
+      rgba(255, 255, 255, 0.8),
+      rgba(219, 17, 17, 0.9)
     ),
     url(../img/hero-small.jpg);
   background-size: cover;
@@ -1938,8 +1938,8 @@ body {
       url(../img/hero.jpg);
     background-image: linear-gradient(
         to right bottom,
-        rgba(126, 213, 111, 0.8),
-        rgba(40, 180, 133, 0.8)
+        rgba(255, 255, 255, 0.8),
+        rgba(219, 17, 17, 0.9)
       ),
       url(../img/hero.jpg);
   }
