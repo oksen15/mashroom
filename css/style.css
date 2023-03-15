@@ -1283,7 +1283,7 @@ body {
 }
 
 .composition__photo {
-  width: 55%;
+  width: 35%;
   -webkit-box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.4);
   border-radius: 2px;
@@ -1292,6 +1292,7 @@ body {
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
   outline-offset: 2rem;
+  border-radius: 35px;
 }
 
 @media only screen and (max-width: 56.25em) {
@@ -1318,7 +1319,7 @@ body {
 }
 
 .composition__photo--p2 {
-  right: 0;
+  right: 90px;
   top: 2rem;
 }
 
